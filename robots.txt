@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pramishmaharjan.github.io/sitemap.xml
+Sitemap: https://lucas-m-fr.github.io/sitemap.xml

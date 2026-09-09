@@ -1,4 +1,4 @@
-# Brand spec — Pramish Maharjan
+# Brand spec — Lucas M
 
 Extracted from CV PDF + user tone choices (Human/approachable + Tech/utility).
 
